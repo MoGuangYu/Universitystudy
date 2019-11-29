@@ -1,7 +1,8 @@
 # Universitystudy-
 ![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/IMG_20191129_094845.jpg)
->来看一段有趣的
->>QAQ吧！
+>手机端请点击下方的View all of README.md查看
+>>来看一段有趣的
+>>>QAQ吧！
 
 我:欢迎萌新！
 ___
