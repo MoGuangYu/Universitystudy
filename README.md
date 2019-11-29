@@ -41,3 +41,6 @@ ___
 萌新:如果我想“改邪归正”，以后我想好好做，你们这个工具能帮到我什么呢？
 ___
 我:我们这里还有“大学习答案”哦！
+![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/11-16-04-dxx_answer.jpg)
+___
+@萌新 好啦！<br>相信你现在已经会用了，点击这里开始正式使用吧！
