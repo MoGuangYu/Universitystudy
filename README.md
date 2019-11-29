@@ -1,6 +1,6 @@
 # Universitystudy-
 ![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/IMG_20191129_094845.jpg)
->手机端请点击下方的<br>View all of README.md查看完整内容
+>手机端请点击下方的<br>View all of README.md查看
 >>来看一段有趣的
 >>>QAQ吧！
 
