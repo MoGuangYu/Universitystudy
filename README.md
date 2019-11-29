@@ -47,4 +47,4 @@ ___
 MoGuangYu:我们这里还有“大学习答案”哦！
 ![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/11-16-04-dxx_answer.jpg)
 ___
-@萌新 好啦！<br>相信你现在已经会用了，点击这里开始正式使用吧！
+@萌新 好啦！<br>相信你现在已经会用了，[点击这里]()开始正式使用吧！
