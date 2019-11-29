@@ -1,4 +1,5 @@
 # Universitystudy-
+* 来看一段有趣的QAQ吧！
 ![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/IMG_20191129_094845.jpg)
 我:欢迎萌新！
 ___
