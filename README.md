@@ -14,4 +14,5 @@ ___
 ___
 我:简单！“完成页截图”功能，每一期的完成图都有哦！
 工具界面是这个样子的。
-！[]()
+![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/10-46-44-dxx_finish.jpg)
+例如，第七季第五期的完成图就是这样的。
