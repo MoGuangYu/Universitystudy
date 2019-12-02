@@ -47,4 +47,4 @@ ___
 打酱油:我们这里还有“大学习答案”哦！
 ![](https://github.com/MoGuangYu/Universitystudy-/blob/master/TP/11-16-04-dxx_answer.jpg)
 ___
-@萌新 好啦！<br>相信你现在已经会用了，[点击这里](http://service-n157vbwh-1252343050.ap-beijing.apigateway.myqcloud.com/release/dxx_finish)开始正式使用吧！<br><br>Ps 我只是个打酱油的
+@萌新 好啦！<br>相信你现在已经会用了，[点击这里](http://service-n157vbwh-1252343050.ap-beijing.apigateway.myqcloud.com/release/dxx_finish)<br><br>Ps 我只是个打酱油的
